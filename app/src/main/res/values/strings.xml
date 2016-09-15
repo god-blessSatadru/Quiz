@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="Q1">"Which pair won the gold medal at Olympics 2016 in men's doubles tennis"</string>
+    <string name="Q2">"Which country won the bronze medal at men's soccer in Rio 2016"</string>
+    <string name="Q3">"Who won the gold medal in women's singles badminton in Rio 2016"</string>
+    <string name="Q4">"Which pair won the silver in men's doubles badminton at Rio Olympics"</string>
+    <string name="Q5">"Which country won the gold medal in men's field hockey at Rio Olympics"</string>
+    <string name="Q6">"Who won the gold at women's 100 meter freestyle swimming"</string>
+    <string name="Q7">"Which pair won the gold in women's doubles table tennis at Rio Olympics" </string>
+    <string name="Q8">"Who won the men's marathon"</string>
+    <string name="Q9">"Which country won the highest number of medals in Rio 2016"</string>
+    <string name="Q10">"Which city will host the Olympics of 2020"</string>
+    <string name ="Women_bdaminton_singles_gold_winner">Carolina Marin</string>
+    <string name="hint1">"Type Your Answer"</string>
+
+</resources>
